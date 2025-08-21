@@ -111,7 +111,6 @@ For issues or questions:
 ## 🔄 Version History
 
 - **v1.0.0** (Current) - Initial release with core functionality
-- Planned features: Barcode support, cloud integration, batch processing
 
 ---
 
